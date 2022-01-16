@@ -2,7 +2,7 @@ function Card(props) {
   return (
     <div>
       <h1>{props.name}</h1>
-      <p>{props.detail}</p>
+      <p>{props.details}</p>
     </div>
   );
 }
