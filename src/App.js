@@ -4,9 +4,9 @@ import Cardwithclass from "./components/Cardwclass";
 
 function App() {
   const peoples = [
-    { id: 0, name: "gergo", details: "rendom valami" },
-    { id: 1, name: "laci", details: "random valami" },
-    { id: 2, name: "feri", details: "rondom valami" },
+    { id: 0, name: "Gergo", details: "Something" },
+    { id: 1, name: "Laci", details: "Anything" },
+    { id: 2, name: "Feri", details: "Nothing" },
   ];
 
   return (
