@@ -1,4 +1,3 @@
-export default App;
 import Card from "./components/Card";
 import Cardwithclass from "./components/Cardwclass";
 
